@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.203.91.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761866008687
+  login: 1761953467922
+money: '0'
+last-account-name: iWawiwu195
+logoutlocation:
+  world: 9f9017e9-b4c1-45fe-b0dc-a00c00013578
+  world-name: world
+  x: 298.30000001192093
+  y: 71.0
+  z: 275.8037741689311
+  yaw: -152.74830627441406
+  pitch: 31.049894332885742
